@@ -1,4 +1,4 @@
 #!/bin/bash
-#1st test
+#2nd test
 
 printf("this is first test!")
