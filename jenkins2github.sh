@@ -1,4 +1,4 @@
 #!/bin/bash
-#2nd test
+#totally rewrite
 
 printf("this is first test!")
