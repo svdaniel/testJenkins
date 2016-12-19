@@ -1,4 +1,4 @@
 #!/bin/bash
-#1st test
+#second  test
 
-printf("this is first test!")
+printf("this is second test!")
